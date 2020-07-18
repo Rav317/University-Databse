@@ -1,11 +1,11 @@
-** University Database **
+**University Database**
 
 Python based University Database which stores the data of university students.
 Professors can create a account using a username and password.
 All the data is stored in SQLite.
 Python-tkinter is used for the GUI.
 
-Functionalities:
+**Functionalities:**
 
 ```
 Add students details.
